@@ -1,0 +1,420 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem on the deponents concerning the birth of the Prince of Wales</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55252</idno>
+            <idno type="STC">Wing P2693</idno>
+            <idno type="STC">ESTC R218291</idno>
+            <idno type="EEBO-CITATION">99829899</idno>
+            <idno type="PROQUEST">99829899</idno>
+            <idno type="VID">34346</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55252)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34346)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2012:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem on the deponents concerning the birth of the Prince of Wales</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.l.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:34346:1" rendition="simple:additions"/>
+            <head>A <hi>POEM</hi> on the <hi>DEPONENTS</hi> concerning the Birth of the <hi>Prince of Wales.</hi>
+            </head>
+            <lg>
+               <l>THE Mighty Monarch of this Britiſh Iſle,</l>
+               <l>Diſturb'd to hear his Subjects prate and ſmile,</l>
+               <l>That he is ſo content to own a Son,</l>
+               <l>For to inherit the imperial Crown,</l>
+               <l>To pleaſe his Queen, and put by both his own.</l>
+               <l>But finding <hi>England</hi> not ſo credulous,</l>
+               <l>And cleer-ey'd <hi>Orange</hi> more ſuſpect than us;</l>
+               <l>By Inſtigation of the Queen and <hi>P</hi>—</l>
+               <l>He ſummon'd all together, as you ſee,</l>
+               <l>And there declares his own Sufficiency:</l>
+               <l>He ſays, His Subjects Minds now poyſoned are,</l>
+               <l>They'll not believe God bleſs'd him with an Heir;</l>
+               <l>But to convince them they are in the wrong,</l>
+               <l>In come the Swearers, and Depoſe as long</l>
+               <l>A Narrative as perjur'd <hi>Otes</hi> could do:</l>
+               <l>What theſe Depoſe unqueſtionably's true;</l>
+               <l>Our King ſays ſo, who dare ſay other now?</l>
+               <l>There Lords, Knights, Ladies, Eſquires, Quacks and all</l>
+               <l>The Papal Locuſt that infect <hi>Whitehall,</hi>
+               </l>
+               <l>They ſwear what King wou'd have to gain their ends,</l>
+               <l>Since he's a Prince that ne'r forgets his Friends.</l>
+               <l>But witneſs Biſhops, for your Loyalty</l>
+               <l>He makes you great, he did beſtow on ye,</l>
+               <l>To keep you ſafe, his greateſt ſtrongeſt Fort;</l>
+               <l>While you were there, the Tower was the Court:</l>
+               <l>All fled from <hi>James,</hi> to you for Bleſſings came;</l>
+               <l>Impriſonment immortaliz'd your Name;</l>
+               <l>Biſhops of <hi>England's</hi> Church are Men of Fame.</l>
+               <l>And ſince his dire Deſign in Law has fail'd,</l>
+               <l>He ſeems to ſmile, you are to council call'd,</l>
+               <l>To hear the worthy loyal Swearers ſwear,</l>
+               <l>That at the Birth of <hi>Wales</hi>'s Prince they were.</l>
+            </lg>
+            <lg>
+               <l>And firſt begins old <hi>England</hi>'s barren Queen,</l>
+               <l>That at her Siſters Labour was not ſeen</l>
+               <l>'Till all was paſt; yet for the Holy Cauſe</l>
+               <l>She'll do what e'er ſhe can to blind the Laws</l>
+               <l>Of <hi>England,</hi> and doth there declare, and ſay,</l>
+               <l>She haſted to the Queen that very day,</l>
+               <l>And never ſtirr'd till this great Prince was born</l>
+               <l>For the Nation's Glory, but he proves their Scorn;</l>
+               <l>Except of thoſe that daily on him wait,</l>
+               <l>Whoſe Loyal Love is only to be great.</l>
+            </lg>
+            <lg>
+               <l>Next comes old <hi>Powis,</hi> who a Story feigns</l>
+               <l>Of riff-raff ſtuff to fill the Peoples Brains</l>
+               <l>Of what ſhe ſaw and knew about the thing,</l>
+               <l>And in a modeſt circumſtance doth bring</l>
+               <l>Of ſomething which into the World he brought,</l>
+               <l>And by the Doctors gave him, as ſhe thought.</l>
+               <l>Now as a Governeſs ſhe tends his Grace,</l>
+               <l>And wou'd not for all Heaven quit her place;</l>
+               <l>So ſweet a Babe, ſo fine a hopeful Lad,</l>
+               <l>The forward'ſt Son the Father ever had.</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Aran</hi>'s Counteſs with her Oath comes in</l>
+               <l>That at the Prince's Birth her ſelf had been,</l>
+               <l>And how ſhe heard complainings from the Queen</l>
+               <l>Of little Pains, and then the Child was ſeen.</l>
+               <l>But oh! he did not cry, the Queen bawl'd out,</l>
+               <l>For fear 'twas dead, but Granny clear'd the doubt;</l>
+               <pb n="2" facs="tcp:34346:2" rendition="simple:additions"/>
+               <l>And further Honour this great Lady had,</l>
+               <l>She ſaw Smock ſpoil'd with Milk (the ſign was bad.)</l>
+            </lg>
+            <lg>
+               <l>And <hi>Peterborough</hi> could not be beguil'd,</l>
+               <l>Knowing the Fathers ſtrength, at thoughts ſhe ſmil'd;</l>
+               <l>She ſaw the Smock, and ſwears ſhe was with Child.</l>
+            </lg>
+            <lg>
+               <l>While pious <hi>Sunderland</hi> to Chapel went,</l>
+               <l>On purpoſe to receive the Sacrament;</l>
+               <l>Devotion was ſo great, ſhe diſobey'd</l>
+               <l>Her Majeſty, and ſaid, when ſhe had pray'd</l>
+               <l>She'd wait on her; but hearing that the Prince</l>
+               <l>Was haſting to the World; this, this pretence</l>
+               <l>Soon brought our Saint-like Lady quick from thence;</l>
+               <l>And from her bended Knees ſlew to the Queen,</l>
+               <l>And there ſaw all the ſight was to be ſeen;</l>
+               <l>The Bed was warm'd, and into it ſhe went,</l>
+               <l>And ask't the King, if for the Gueſs he'd ſent.</l>
+               <l>A lingring pain ſhe had, and ſeem'd to fear</l>
+               <l>'Twould not be born till all the Fools were there;</l>
+               <l>But by her Midwife was aſſur'd one pain</l>
+               <l>Wou'd bring the Prince into the World amain;</l>
+               <l>But Faithleſs Queen, the Child did lie ſo high,</l>
+               <l>She'd not believe but <hi>Judith</hi> told a Lye;<note place="margin">She laid her hand upon the Queens Belly.</note>
+               </l>
+               <l>And ſuch an honour to this Deponent granted,</l>
+               <l>It's hardly more by th' Pope for to be Sainted.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Roſcommon</hi> ſwears ſhe ſtood by <hi>Sunderland,</hi>
+               </l>
+               <l>Near the Queens Bed, juſt by the Midwife's hand;</l>
+               <l>And ſaw his Highneſs taken out of Bed,</l>
+               <l>Fit for a Crown t' adorn his Princely Head.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Fingall</hi> Depos'd, that in the Queens diſtreſs,</l>
+               <l>She ſtood at the Beds feet juſt by Miſtreſs,</l>
+               <l>And ſaw the Prince into the World did come,</l>
+               <l>And by <hi>Delababy</hi> carried from the Room.</l>
+            </lg>
+            <lg>
+               <l>Then painted <hi>Buckley</hi> early in the morn</l>
+               <l>Came to St. <hi>James</hi>'s to ſee his Highneſs born;</l>
+               <l>With all the haſt ſhe cou'd ſhe up did riſe,</l>
+               <l>Soon dreſs'd, ſhe came by Nine a Clock preciſe,</l>
+               <l>And found her Majeſty was in the bed,</l>
+               <l>And groaning diſmally, ſhe further ſaid;</l>
+               <l>Cry'd to the Midwife, Do not the Child part;</l>
+               <l>Old Granny crav'd her leave: With all her Heart</l>
+               <l>She granted what the Beldam did deſire;</l>
+               <l>And certain 'tis, there was no danger nigh her;</l>
+               <l>Crying, O King, where are you gone, and fled!</l>
+               <l>He ſaid, I'm, Madam, Kneeling on your Bed.</l>
+               <l>This plain Deponent bellows Bawdy forth,</l>
+               <l>To be expos'd Eaſt, Weſt, South, and North,</l>
+               <l>Without ere fear or ſhame bars Modeſty,</l>
+               <l>For to out-face the World with ſuch a Lye.</l>
+               <l>Then pocky <hi>Bellaſſis,</hi> 'tis next comes in,</l>
+               <l>And ſays, She ſaw the Coach of <hi>Charles</hi>'s Queen;</l>
+               <l>And hearing that the Queen in Labour was,</l>
+               <l>She hurried in without a Call or Paſs;</l>
+               <l>With this excuſe, ſhe knew ſhe was forgot,</l>
+               <l>Where ſhe talks Bawdy, ſhews Impudence, what not?</l>
+               <l>Expoſe her ſelf in Print to ſhew her love,</l>
+               <l>Exalted by the King, and one above,</l>
+               <l>She'll lye and ſwear, forſwear to prop the Cauſe</l>
+               <l>That Baffles <hi>England</hi>'s ſound and wholſom Laws.</l>
+            </lg>
+            <lg>
+               <l>Then Lady <hi>Waldgrave,</hi> who was there before</l>
+               <l>This Royal Babe was launched from the Shore,</l>
+               <l>And heard her Majeſty cry out full ſore.</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Crane</hi> and ſottiſh <hi>Wentworth</hi> ſay the ſame,</l>
+               <l>With <hi>Sawyer, Waldgrave, Dawſon,</hi> that they came,</l>
+               <pb n="3" facs="tcp:34346:2"/>
+               <l>And ſaw this wonder which the World won't own,</l>
+               <l>And blames their little Faith to think this Son</l>
+               <l>Eſpurious, and not in truth proceeding</l>
+               <l>From Majeſty, when they all ſaw him bleeding.</l>
+               <l>Nay, gave him of his Blood ſqueez'd from th' ſtring,</l>
+               <l>That Royal Babe into the World did bring.</l>
+               <l>Then <hi>Bromely, Turini,</hi> and <hi>Nan Cary</hi> too</l>
+               <l>Swear they ſaw all the Work that was to do,</l>
+               <l>And more by half is ſworn than they'l prove true.</l>
+            </lg>
+            <lg>
+               <l>Then comes <hi>Delababy</hi> the great Nurſe,</l>
+               <l>Who with the Queen is all in all in truſt,</l>
+               <l>And ſwears that <hi>Danvers,</hi> Maid to Princeſs <hi>Ann</hi>
+               </l>
+               <l>Was joy'd to ſee this little Royal man,</l>
+               <l>With former mark on Eye that us'd to be</l>
+               <l>On all Queen <hi>Mary's</hi> Royal Progeny.</l>
+               <l>
+                  <hi>James</hi> ſeem'd to doubt that which before he knew,</l>
+               <l>And fear'd this treacherous Nurſe not told him true,</l>
+               <l>But he muſt peep and ſee the Royal Elf,</l>
+               <l>And joy'd as if he had got him his own ſelf:</l>
+               <l>For Mrs. <hi>Wilks,</hi> who doubts but ſhe wou'd ſay</l>
+               <l>She brought the Prince to Town that very day?</l>
+               <l>And told the King the trembling Queen did fear</l>
+               <l>'Twou'd be hard labour (though no Child was there)</l>
+               <l>Explains moſt impudently thoſe concerns</l>
+               <l>That fellow Women when they caſt their Bear</l>
+               <l>But what cares ſhe, the Hereticks ſhe'll blind,</l>
+               <l>And then no fear the King will prove moſt kind</l>
+               <l>To all thoſe Wretches that ſwear to his mind.</l>
+            </lg>
+            <lg>
+               <l>Then comes the Waſher-woman, Mrs. <hi>Pierce,</hi>
+               </l>
+               <l>And ſays, that to the Queen ſhe's Laundreſs,</l>
+               <l>And there declares a Story of Hot Linen,</l>
+               <l>That us'd to come from Child-bearing Women.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Richmond</hi> and <hi>Litchfield,</hi> and fine <hi>Mareſchall,</hi>
+               </l>
+               <l>Tho not at Labour, they believe it all,</l>
+               <l>And fain would be believ'd, if theſe Tools</l>
+               <l>By ſwearing falſly could make us ſuch Fools:</l>
+               <l>They give ſuch Demonſtrations, which do lye</l>
+               <l>As much aſide as they do Modeſty.</l>
+            </lg>
+            <lg>
+               <l>Then comes great <hi>George</hi> of <hi>England</hi>'s Chancellor,</l>
+               <l>Who was with expedition call'd to the Labour.</l>
+               <l>The Queen cry'd out as Women us'd to do,</l>
+               <l>And he believes the Prince is real too;</l>
+               <l>But not ſo certain, nor 'tis fear'd ſo true</l>
+               <l>As he wears Horns that were by <hi>Monford</hi> made,</l>
+               <l>Them and his noiſe makes all the Fools afraid;</l>
+               <l>Tongue runs at random, and Horns puſhes thoſe</l>
+               <l>That are ſo learn'd his Lordſhip to oppoſe.</l>
+               <l>He fears to act no wretched Villanies,</l>
+               <l>He dreads no Torments for inventing Lies,</l>
+               <l>For he of Heaven is ſure when e're he dies:</l>
+               <l>Thanks to the care of fond indulgent Wife,</l>
+               <l>To make atonement for his wicked Life:</l>
+               <l>Damns her own Soul, and Whores with all ſhe cou'd,</l>
+               <l>T' allay the impetuous Sallies of her Blood.</l>
+            </lg>
+            <lg>
+               <l>Lord Preſident comes next, that's now caſhier'd,</l>
+               <l>For only ſpeaking of the Truth, 'tis fear'd;</l>
+               <l>Yet he for to be great again at Court</l>
+               <l>Wou'd be forſworn, tho he's damn'd for't.</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Arundel</hi> of <hi>Wardour</hi> Privy-Seal</l>
+               <l>Was ſo concern'd, that he her pains did feel;</l>
+               <l>And 'tis believ'd this tender-hearted man</l>
+               <l>Did feel as much as Majeſty did then:</l>
+               <pb n="4" facs="tcp:34346:3" rendition="simple:additions"/>
+               <l>He ſhew'd ſo great concern to mighty <hi>Wem,</hi>
+               </l>
+               <l>Who knew too much to have concern for him;</l>
+               <l>But ſatisfy'd the Fool it would be paſt,</l>
+               <l>And wondred much her pains ſo long did laſt.</l>
+            </lg>
+            <lg>
+               <l>Then comes my Lord All-Pride with Modeſty,<note place="margin">Lord <hi>Mul<g ref="char:EOLhyphen"/>grave,</hi> ſo cal<g ref="char:EOLhyphen"/>led.</note>
+               </l>
+               <l>And ſeems unwilling to affirm a Lye;</l>
+               <l>With ſtately Geſture he did himſelf excuſe,</l>
+               <l>But ſetting hand to Paper can't refuſe.</l>
+            </lg>
+            <lg>
+               <l>Then fooliſh <hi>Craven</hi> comes, and doth depoſe,</l>
+               <l>A Mark he has that he the Prince well knows;</l>
+               <l>If 't be his Lordſhips Mark, he muſt ne'er rule;</l>
+               <l>For <hi>Europe</hi> knows he's mark'd out for a Fool.</l>
+            </lg>
+            <lg>
+               <l>Then comes <hi>Feverſham</hi> that haughty Beau,</l>
+               <l>And tells a Tale of Dean, and Dat, and how,</l>
+               <l>Tho he's no more believ'd than all the reſt,</l>
+               <l>Only poor man, he fain would do his beſt,</l>
+               <l>And be rewarded as when come from <hi>Weſt.</hi>
+               </l>
+               <l>Earl of <hi>Murry</hi> that <hi>Alexander</hi> Great,</l>
+               <l>He doth believe 'twas the King that did the feat,</l>
+               <l>And that this Son is true, and not a Cheat.</l>
+               <l>Then <hi>Middleton</hi> and <hi>Melford</hi> both explain'd</l>
+               <l>The buſineſs, which they from the King had gain'd,</l>
+               <l>As knowing Men, his Majeſty did truſt</l>
+               <l>His Conſorts Secrets, hoping they'd be juſt</l>
+               <l>To his endeared Son, our mighty Prince,</l>
+               <l>That as he thought wou'd hide his impotence.</l>
+               <l>
+                  <hi>Godolphin</hi> too with Confidence pretends</l>
+               <l>It's true born, but 'tis for his own ends.</l>
+            </lg>
+            <lg>
+               <l>And <hi>Fox</hi> a Story tells of God knows what,</l>
+               <l>To fool the Nation's all he would be at:</l>
+               <l>He keeps in favour with his Princely Grace,</l>
+               <l>He fawns and flatters for to keep his place.</l>
+            </lg>
+            <lg>
+               <l>Then famous <hi>Scarborough</hi> and <hi>Witherly,</hi>
+               </l>
+               <l>With <hi>Waldgrave, Brady,</hi> and <hi>Amand</hi> do lye,</l>
+               <l>And bring their Circumſtances to convince</l>
+               <l>The World that 'tis a real high-born Prince.</l>
+               <l>Thus they ſtick out at nothing that will do</l>
+               <l>The Nations Wrong, and bring to <hi>England</hi> Woe:</l>
+               <l>Baſe mercenary Slaves, for a Kings ſmile</l>
+               <l>Would eſpurious Iſſue rear, and us beguile;</l>
+               <l>That fawn on him, and more obſerve a Nod,</l>
+               <l>Then fear the vengeance of an angry God;</l>
+               <l>And on the turn of Times wou'd all fly back</l>
+               <l>And let his Highneſs intereſt go to wrack.</l>
+               <l>Two Depoſitions more to Court were ſent<note place="margin">Lord <hi>Peterbo<g ref="char:EOLhyphen"/>rough</hi> and <hi>Hun<g ref="char:EOLhyphen"/>tington.</hi>
+                  </note>
+               </l>
+               <l>Aſham'd t' appear to further the intent</l>
+               <l>Of Popiſh Principles and Perjuries.</l>
+               <l>None but the Devil could invent ſuch Lyes.</l>
+               <l>Then after this the King himſelf declares</l>
+               <l>He don't deſign with <hi>England</hi> to make Wars.</l>
+               <l>But he ſuch Aggravations hath of late,</l>
+               <l>That he muſt needs be angry with the State:</l>
+               <l>A ſpecious Prologue to conclude withal;</l>
+               <l>But all the Proteſtants he vows ſhall fall</l>
+               <l>A Sacrifice to <hi>Rome,</hi> and his Revenge:</l>
+               <l>Then Soldiers, fear not Fools, but ſcorn to cringe;</l>
+               <l>Be reſolute and ſtout, and ſcorn to ſell</l>
+               <l>Your Souls to <hi>Rome,</hi> but ſend the Pope to Hell.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34346:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
